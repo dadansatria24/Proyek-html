@@ -1,0 +1,21 @@
+
+Penjelasan Kelas-Kelas Bootstrap yang Digunakan:
+
+1. Navbar:
+   - `navbar`, `navbar-expand-lg`, `navbar-dark`, `bg-dark`: Untuk membuat navigasi responsif dengan tema gelap.
+   - `navbar-brand`: Untuk nama/logo aplikasi di sisi kiri navbar.
+   - `navbar-nav`, `nav-item`, `nav-link`: Untuk membuat daftar menu navigasi di sisi kanan navbar.
+
+2. Tata Letak:
+   - `container`: Untuk mengatur lebar konten agar tidak memenuhi seluruh layar dan tetap responsif.
+   - `text-center`, `mt-5`: Untuk membuat teks berada di tengah dan memberi margin atas.
+
+3. Tombol:
+   - `btn`, `btn-primary`, `btn-success`: Untuk mendesain tombol agar terlihat menarik dan menonjol.
+
+4. Formulir Kontak:
+   - `form-control`: Untuk membuat input dan textarea terlihat rapi dan konsisten.
+   - `form-label`, `mb-3`: Untuk label dan jarak antar field formulir.
+
+Catatan:
+Semua elemen ini menggunakan komponen bawaan dari Bootstrap 5 yang sudah dirancang agar responsif di perangkat mobile maupun desktop.
